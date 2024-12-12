@@ -1,7 +1,5 @@
 # N1GuidePro
 
-![N1GuidePro](https://via.placeholder.com/800x200.png?text=Logo+do+N1GuidePro)
-
 Bem-vindo ao **N1GuidePro**, um site criado para facilitar o acesso a tutoriais e guias técnicos voltados para equipes de suporte N1. 🚀
 
 ## 🌐 Sobre o Projeto
